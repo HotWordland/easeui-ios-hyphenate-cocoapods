@@ -12,8 +12,8 @@
 
 #import "EaseChatBarMoreView.h"
 
-#define CHAT_BUTTON_SIZE CGSizeMake(50,60)
-#define INSETS 10
+#define CHAT_BUTTON_SIZE CGSizeMake(53,63)
+#define INSETS 8
 #define MOREVIEW_COL 4
 #define MOREVIEW_ROW 2
 #define MOREVIEW_BUTTON_TAG 1000
